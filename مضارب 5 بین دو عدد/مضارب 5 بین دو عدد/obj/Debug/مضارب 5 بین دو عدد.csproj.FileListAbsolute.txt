@@ -1,0 +1,8 @@
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\bin\Debug\مضارب 5 بین دو عدد.exe.config
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\bin\Debug\مضارب 5 بین دو عدد.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\bin\Debug\مضارب 5 بین دو عدد.pdb
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\obj\Debug\مضارب 5 بین دو عدد.csproj.AssemblyReference.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\obj\Debug\مضارب 5 بین دو عدد.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\obj\Debug\مضارب 5 بین دو عدد.csproj.CoreCompileInputs.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\obj\Debug\مضارب 5 بین دو عدد.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مضارب 5 بین دو عدد\مضارب 5 بین دو عدد\obj\Debug\مضارب 5 بین دو عدد.pdb
