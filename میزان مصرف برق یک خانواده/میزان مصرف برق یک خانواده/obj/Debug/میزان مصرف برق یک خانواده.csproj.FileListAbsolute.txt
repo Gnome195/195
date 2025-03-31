@@ -1,0 +1,3 @@
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\میزان مصرف برق یک خانواده\میزان مصرف برق یک خانواده\obj\Debug\میزان مصرف برق یک خانواده.csproj.AssemblyReference.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\میزان مصرف برق یک خانواده\میزان مصرف برق یک خانواده\obj\Debug\میزان مصرف برق یک خانواده.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\میزان مصرف برق یک خانواده\میزان مصرف برق یک خانواده\obj\Debug\میزان مصرف برق یک خانواده.csproj.CoreCompileInputs.cache
