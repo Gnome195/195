@@ -1,0 +1,8 @@
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\bin\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.exe.config
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\bin\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\bin\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.pdb
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\obj\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.csproj.AssemblyReference.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\obj\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\obj\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.csproj.CoreCompileInputs.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\obj\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\نمایش بالا ترین جایگاه  ارقام  یک عدد\نمایش بالا ترین جایگاه  ارقام  یک عدد\obj\Debug\نمایش بالا ترین جایگاه  ارقام  یک عدد.pdb
