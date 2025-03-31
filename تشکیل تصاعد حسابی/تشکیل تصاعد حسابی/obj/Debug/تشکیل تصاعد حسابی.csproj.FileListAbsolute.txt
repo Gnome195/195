@@ -1,0 +1,8 @@
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\bin\Debug\تشکیل تصاعد حسابی.exe.config
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\bin\Debug\تشکیل تصاعد حسابی.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\bin\Debug\تشکیل تصاعد حسابی.pdb
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\obj\Debug\تشکیل تصاعد حسابی.csproj.AssemblyReference.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\obj\Debug\تشکیل تصاعد حسابی.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\obj\Debug\تشکیل تصاعد حسابی.csproj.CoreCompileInputs.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\obj\Debug\تشکیل تصاعد حسابی.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تشکیل تصاعد حسابی\تشکیل تصاعد حسابی\obj\Debug\تشکیل تصاعد حسابی.pdb
