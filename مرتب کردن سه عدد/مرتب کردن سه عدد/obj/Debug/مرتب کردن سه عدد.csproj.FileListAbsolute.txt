@@ -1,0 +1,8 @@
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\bin\Debug\مرتب کردن سه عدد.exe.config
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\bin\Debug\مرتب کردن سه عدد.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\bin\Debug\مرتب کردن سه عدد.pdb
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\obj\Debug\مرتب کردن سه عدد.csproj.AssemblyReference.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\obj\Debug\مرتب کردن سه عدد.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\obj\Debug\مرتب کردن سه عدد.csproj.CoreCompileInputs.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\obj\Debug\مرتب کردن سه عدد.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\مرتب کردن سه عدد\مرتب کردن سه عدد\obj\Debug\مرتب کردن سه عدد.pdb
