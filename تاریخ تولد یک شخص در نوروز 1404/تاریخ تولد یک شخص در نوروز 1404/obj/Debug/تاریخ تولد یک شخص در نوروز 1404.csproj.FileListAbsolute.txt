@@ -1,0 +1,7 @@
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تاریخ تولد یک شخص در نوروز 1404\تاریخ تولد یک شخص در نوروز 1404\bin\Debug\تاریخ تولد یک شخص در نوروز 1404.exe.config
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تاریخ تولد یک شخص در نوروز 1404\تاریخ تولد یک شخص در نوروز 1404\bin\Debug\تاریخ تولد یک شخص در نوروز 1404.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تاریخ تولد یک شخص در نوروز 1404\تاریخ تولد یک شخص در نوروز 1404\bin\Debug\تاریخ تولد یک شخص در نوروز 1404.pdb
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تاریخ تولد یک شخص در نوروز 1404\تاریخ تولد یک شخص در نوروز 1404\obj\Debug\تاریخ تولد یک شخص در نوروز 1404.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تاریخ تولد یک شخص در نوروز 1404\تاریخ تولد یک شخص در نوروز 1404\obj\Debug\تاریخ تولد یک شخص در نوروز 1404.csproj.CoreCompileInputs.cache
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تاریخ تولد یک شخص در نوروز 1404\تاریخ تولد یک شخص در نوروز 1404\obj\Debug\تاریخ تولد یک شخص در نوروز 1404.exe
+C:\Users\Bashir-Rayaneh\Desktop\c#\console\تاریخ تولد یک شخص در نوروز 1404\تاریخ تولد یک شخص در نوروز 1404\obj\Debug\تاریخ تولد یک شخص در نوروز 1404.pdb
